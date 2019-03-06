@@ -1,5 +1,3 @@
-
-executable file 12 lines (8 sloc) 385 Bytes
 set -e
 
 DIR="$( cd "$( dirname "$0" )" && pwd )"
